@@ -29,3 +29,9 @@ Tests run: 3, Failures: 0, Errors: 0, Skipped: 0
 [INFO] ------------------------------------------------------------------------
 
 <<<<<<<<<***Ends here ***>>>>>>>>>
+
+ #2 #3 #4 Required Modal classes has been created as per the requirements provided.
+ #3.c Rooster class has been created without inheritance concept.
+ #4.d. Necessary implementation provided to the Parrot class with the flexibility to get the Parrot sound,
+ 		based on the animal it is living with automatically.
+ 		
